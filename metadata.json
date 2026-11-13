@@ -1,0 +1,6 @@
+{
+  "name": "درس ولعبة - قارات العالم الجديد",
+  "description": "منصة تعليمية تفاعلية وألعاب جغرافية لدرس موقع ومظاهر سطح قارات العالم الجديد - الصف الثالث الإعدادي مع الأستاذ أحمد نورالدين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
